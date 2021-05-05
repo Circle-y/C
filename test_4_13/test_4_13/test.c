@@ -91,3 +91,20 @@
 //
 //}
 
+//int main()
+//{
+//	//short s = 110;
+//	//int a = s+~s;
+//	//printf("%d\n", a );
+//	//printf("%d\n", ~s);
+//	//return 0;
+//
+//}
+
+int main()
+
+{
+
+             
+	return 0;
+}
